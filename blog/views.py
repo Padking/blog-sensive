@@ -1,4 +1,4 @@
-from django.db.models import Prefetch, Count
+from django.db.models import Count, Prefetch
 from django.shortcuts import render
 
 from .models import (

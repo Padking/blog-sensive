@@ -1,5 +1,10 @@
 from django.contrib import admin
-from blog.models import Post, Tag, Comment
+
+from blog.models import (
+    Comment,
+    Post,
+    Tag
+)
 
 
 @admin.register(Post)
