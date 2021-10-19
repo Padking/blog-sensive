@@ -1,12 +1,12 @@
-from django.contrib import admin
-from django.urls.conf import include
-from blog import views
-from django.urls import path
-
 import debug_toolbar
 
-from django.conf.urls.static import static
 from django.conf import settings
+from django.conf.urls.static import static
+from django.contrib import admin
+from django.urls import path
+from django.urls.conf import include
+
+from ..blog import views
 
 
 urlpatterns = [
