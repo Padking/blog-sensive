@@ -38,9 +38,3 @@ class TagQuerySet(models.QuerySet):
                                .order_by('-posts_count'))
 
         return tags_by_posts_count
-
-    def fetch_with_posts_count(self):
-        tags_by_posts_count = (self.annotate(posts_count=models.Count('posts'))
-                               .order_by('-posts_count'))
-
-        return tags_by_posts_count
