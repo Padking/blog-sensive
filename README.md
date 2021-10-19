@@ -26,19 +26,19 @@
 
   Главная страница для выбора поста к прочтению:
 
-  ![site_1_index_page](https://github.com/Padking/sensive-blog/blob/master/screenshots/site_1_index_page.gif)
+  ![site_1_index_page](https://github.com/Padking/blog-sensive/blob/master/screenshots/site_1_index_page.gif)
 
 
   Страница поста:
 
-  ![site_2_posts_page](https://github.com/Padking/sensive-blog/blob/master/screenshots/site_2_posts_page.gif)
+  ![site_2_posts_page](https://github.com/Padking/blog-sensive/blob/master/screenshots/site_2_posts_page.gif)
 
 
 ## Предметная область
 
   Схема сущностей БД:
 
-  ![db_scheme](https://github.com/Padking/sensive-blog/blob/master/screenshots/db_scheme.png)
+  ![db_scheme](https://github.com/Padking/blog-sensive/blob/master/screenshots/db_scheme.png)
 
 
 ## Структура проекта
